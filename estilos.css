@@ -1,0 +1,23 @@
+.fondo{
+    background-image: url("./img/0f2c9e360b953ff7818cb4bd379c72d0.png");
+    background-position: top center ;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 25%;
+}
+.menu{
+    background-color:   #ff99d4
+    ;
+}
+ .fuente  {
+    font-family: "Pacifico", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+.colorfooter{
+    background-color: black;
+}  
+ 
+
+
+  
